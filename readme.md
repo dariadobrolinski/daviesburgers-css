@@ -36,10 +36,6 @@ This file contains the custom styles for the webpage, including styles for the n
 - **Content Body**: Provides a description of the featured menu item and an order button.
 - **Nutrition Information**: Lists the nutritional values of the featured menu item.
 
-## Screenshots
-
-![Screenshot of the webpage](https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg)
-
 ## License
 
 This project is part of a CSS course on Codecademy and is for educational purposes only.
